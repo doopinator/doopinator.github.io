@@ -1,3 +1,3 @@
 ## Projects
-**Florky**
+**Florky**  
 » Discord bot for SkyBlockZ
